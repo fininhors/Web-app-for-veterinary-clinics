@@ -2,7 +2,9 @@
 <b><a href="https://ecuko-mkovacek.rhcloud.com/">Demo</a></b><br>
 <b>Used technologies:</b> PHP, Javascript (jQuery), Zurb Foundation, Smarty templates, MySQL<br><br>
 <b>Description</b>
-<p>The web app is used to record and monitor customers of veterinary clinics.</p>
+<p>The web app is used to record and monitor customers of veterinary clinics.
+	<b>Língua Croata</b>
+</p>
 <ul>Type of users:
 	<li>Unregistered user</li>
 	<li>Registered user (clients)</li>
